@@ -1,0 +1,35 @@
+{
+  "name": "video-in-view",
+  "version": "0.0.0",
+  "description": "Play/Pause video when in/out of the view.",
+  "license": "MIT",
+  "repository": "hemanth/video-in-view",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "echo 'Lazy to test DOM :/'"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "in-view",
+    "in-view-port",
+    "video",
+    "autoplay",
+    "play",
+    "pause",
+    "visible",
+    "scroll"
+  ],
+  "dependencies": {
+    "in-view": "^0.1.5"
+  },
+  "devDependencies": {}
+}
