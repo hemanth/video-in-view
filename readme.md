@@ -2,6 +2,10 @@
 > Play/Pause video when in/out of the view.
 
 
+## DEMO
+
+Checkout the [DEMO](https://h3manth.com/demo/video-in-view/)!
+
 ## Install
 
 ```
