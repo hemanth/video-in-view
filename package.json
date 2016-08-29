@@ -1,6 +1,6 @@
 {
   "name": "video-in-view",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Play/Pause video when in/out of the view.",
   "license": "MIT",
   "repository": "hemanth/video-in-view",
