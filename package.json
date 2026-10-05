@@ -1,6 +1,6 @@
 {
   "name": "video-in-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Play/Pause video when in/out of the view.",
   "license": "MIT",
   "repository": "hemanth/video-in-view",
@@ -29,7 +29,7 @@
     "scroll"
   ],
   "dependencies": {
-    "in-view": "^0.1.5"
+    "in-view": "^0.6.1"
   },
   "devDependencies": {}
 }
